@@ -3,6 +3,7 @@ from datetime import datetime
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+import os
 
 
 api_key = '461c99bac2f30da64d502a66fd80a5d1'
